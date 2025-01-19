@@ -5,10 +5,11 @@ My primary goal behind creating this small project is to practice designing insi
 - Power BI, DAX, data modeling, and visualization.
 
 ## Files Included
-- `Coffee_Sales_Analysis.pbix`: Power BI project file.
-- `Coffee_Sales_Analysis.pbix`: Report in PDF format.
+- `Coffee Sales Insights (2023).pbix`: Power BI project file.
+- `Coffee Sales Insights (2023).pdf`: Report in PDF format.
+- `Coffee Sales Insights (2023).pptx`: PowerPoint to conclude findings from data
 - `Coffee_Sales_Dataset`: Link to Kaggle dataset.
 
 ## Viewing the Project
 - Download the `.pbix` file and open it in Power BI Desktop to interact with the visualizations. Otherwise, to simply to view the visualizations, open the PDF.
-- Open 
+- Open `Coffee Sales Insights (2023).pptx` to view related questions and answers (analyzing the visuals and drawing conclusions).
