@@ -1,4 +1,4 @@
-# Coffee Sales Insights 2023 - Power BI Project
+# Coffee Sales Insights 2023 - Power BI Project ☕
 My primary goal behind creating this small project is to practice designing insightful visualizations (heatmaps, matrix, treemaps, bar charts, etc.) and drawing actionable conclusions based on the data. I used a public dataset from Kaggle, pertaining to coffee sales from January to June of 2023. While the data is fictitious, it focuses on key metrics, trends, and patterns in sales performance. Through this project, I learned how to design an interactive report while also utilizing DAX to create custom metrics.
 
 ## Skills demonstrated
