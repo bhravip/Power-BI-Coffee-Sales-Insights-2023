@@ -1,10 +1,8 @@
 # Coffee Sales Insights 2023 - Power BI Project
-This project visualizes coffee sales using a Power BI report, focusing on key metrics like sales trends, peak hours, and product performance. The dataset is a publicly available sample from Kaggle.
+My primary goal behind creating this small project is to practice designing insightful visualizations (heatmaps, matrix, treemaps, bar charts, etc.) and drawing actionable conclusions based on the data. I used a public dataset from Kaggle, pertaining to coffee sales from January to June of 2023. While the data is fictitious, it focuses on key metrics, trends, and patterns in sales performance. Through this project, I learned how to design an interactive report while also utilizing DAX to create custom metrics.
 
-## Key Features
-- Interactive report with visuals like heatmaps and bar charts.
-- Insights into top-performing products and busiest sales times.
-- Skills demonstrated: Power BI, DAX, data modeling, and visualization.
+## Skills demonstrated
+- Power BI, DAX, data modeling, and visualization.
 
 ## Files Included
 - `Coffee_Sales_Analysis.pbix`: Power BI project file.
@@ -12,4 +10,5 @@ This project visualizes coffee sales using a Power BI report, focusing on key me
 - `Coffee_Sales_Dataset`: Link to Kaggle dataset.
 
 ## Viewing the Project
-- Download the `.pbix` file and open it in Power BI Desktop to interact with the visualizations. Otherwise,m simply to view the visualizations, open the PDF.
+- Download the `.pbix` file and open it in Power BI Desktop to interact with the visualizations. Otherwise, to simply to view the visualizations, open the PDF.
+- Open 
