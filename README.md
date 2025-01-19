@@ -13,3 +13,8 @@ My primary goal behind creating this small project is to practice designing insi
 ## Viewing the Project
 - Download the `.pbix` file and open it in Power BI Desktop to interact with the visualizations. Otherwise, to simply to view the visualizations, open the PDF.
 - Open `Coffee Sales Insights (2023).pptx` to view related questions and answers (analyzing the visuals and drawing conclusions).
+
+## Dashboard
+![Screenshot 2025-01-18 194229](https://github.com/user-attachments/assets/9353c16a-cd20-400e-9603-9d684d6b2e56)
+
+
